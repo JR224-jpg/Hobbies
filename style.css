@@ -1,0 +1,53 @@
+body {
+    font-family: Tahoma;
+    font-size: 16px;
+}
+
+header {
+    background-color: rgb(19, 64, 201);
+}
+
+h2 {
+    font-family: Georfia, serif;
+    color: whitesmoke
+}
+
+nav {
+    background-color: rgb(8, 101, 250);
+    .navbar-nav a:link { color: white; }
+    .navbar-nav a:visited { color: white; }
+    .navbar-nav a:hover { color: lightblue; }
+    .navbar-nav a:active { color: lightblue; }
+
+    .navbar-nav .active{
+     color:goldenrod !important;
+}
+h4 {
+    font-family: Georfia, serif;
+}
+
+footer {
+    background-color: blueviolet !import;
+    font-size: 14px;
+    font-style: italic;
+    color: white;
+    padding: 10px;
+}
+
+
+
+.pageTitle {
+ padding-bottom: 10px;
+border-bottom: 1px solid #cccccc !import;
+margin-bottom: 20px;
+}
+
+{
+border: 0px;
+}
+
+.YouTubeVideo {
+background-color: #f7baff;
+border: 0px;
+vertical-align: top;
+}
